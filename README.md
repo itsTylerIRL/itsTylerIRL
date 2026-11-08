@@ -11,9 +11,11 @@
   <img src="https://raw.githubusercontent.com/itsTylerIRL/drift/main/desk/web/icon.png" width="64">
 </p>
 
+<p align="center">
 | App | Description | Install |
 |---|---|---|
 | **[Sextant](https://github.com/itsTylerIRL/sextant)** | Explore the Urbit network. Ships, sponsors, peers, and apps. | `%sextant` |
 | **[Chibi](https://github.com/itsTylerIRL/chibi)** | On-chain Remilia market activity, sales, and loans. | `%chibi` |
 | **[Iron](https://github.com/itsTylerIRL/iron)** | Dumbbell training, progressive overload, and workout tracking. | `%iron` |
 | **[Drift](https://github.com/itsTylerIRL/drift)** | Generative screensavers for your ship. | `%drift` |
+</p>
