@@ -2,20 +2,20 @@
 <h1 align="center">~ urbit apps by tyler ~</h1>
 
 <p align="center">
-  Small, sharp apps for <a href="https://urbit.org">Urbit</a>, served from <b>~nosfyl</b>.
+  Small, sharp apps for <a href="https://urbit.org">Urbit</a>,
+  served from <b>~nosfyl</b>.
 </p>
 
 <div align="center">
   <table>
     <tr>
-      <th align="center">App</th>
+      <th>App</th>
       <th>Description</th>
       <th>Install</th>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/itsTylerIRL/sextant/main/desk/web/icon.png" width="32">
-        <br>
+        <img src="https://raw.githubusercontent.com/itsTylerIRL/sextant/main/desk/web/icon.png" width="32"><br>
         <a href="https://github.com/itsTylerIRL/sextant"><b>Sextant</b></a>
       </td>
       <td>Explore the Urbit network. Ships, sponsors, peers, and apps.</td>
@@ -23,8 +23,7 @@
     </tr>
     <tr>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/itsTylerIRL/chibi/main/desk/web/icon.png" width="32">
-        <br>
+        <img src="https://raw.githubusercontent.com/itsTylerIRL/chibi/main/desk/web/icon.png" width="32"><br>
         <a href="https://github.com/itsTylerIRL/chibi"><b>Chibi</b></a>
       </td>
       <td>On-chain Remilia market activity, sales, and loans.</td>
@@ -32,8 +31,7 @@
     </tr>
     <tr>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/itsTylerIRL/iron/main/desk/web/icon.png" width="32">
-        <br>
+        <img src="https://raw.githubusercontent.com/itsTylerIRL/iron/main/desk/web/icon.png" width="32"><br>
         <a href="https://github.com/itsTylerIRL/iron"><b>Iron</b></a>
       </td>
       <td>Dumbbell training, progressive overload, and workout tracking.</td>
@@ -41,8 +39,7 @@
     </tr>
     <tr>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/itsTylerIRL/drift/main/desk/web/icon.png" width="32">
-        <br>
+        <img src="https://raw.githubusercontent.com/itsTylerIRL/drift/main/desk/web/icon.png" width="32"><br>
         <a href="https://github.com/itsTylerIRL/drift"><b>Drift</b></a>
       </td>
       <td>Generative screensavers for your ship.</td>
@@ -50,3 +47,21 @@
     </tr>
   </table>
 </div>
+
+---
+
+<p align="center">
+  <a href="https://cancel.tylerirl.com">
+    <img src="https://raw.githubusercontent.com/itsTylerIRL/cancel/main/assets/preview.png" width="650" alt="the cancel is coming">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://cancel.tylerirl.com"><b>[ PLAY NOW ]</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/itsTylerIRL/cancel">[ SOURCE ]</a>
+</p>
+
+<p align="center">
+  <sub>daily maps · leaderboards · king of the hill · endless mode</sub>
+</p>
